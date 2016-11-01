@@ -1,0 +1,23 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Liliatux/Countdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liliatux/Countdown/issues"
+  },
+  "homepage": "https://github.com/Liliatux/Countdown#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "semantic-ui-css": "^2.2.4"
+  }
+}
